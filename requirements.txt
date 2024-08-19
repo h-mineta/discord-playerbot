@@ -4,4 +4,6 @@ google-api-python-client
 python-dotenv
 pytube
 soundcloud-lib
+spotipy
+spotdl
 streamlit
